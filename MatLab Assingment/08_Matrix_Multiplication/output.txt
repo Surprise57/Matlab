@@ -1,0 +1,9 @@
+Manual Result:
+56	55	
+72	57	
+
+MATLAB Built-in Result:
+56	55	
+72	57	
+
+Match Status: Both results MATCH perfectly!

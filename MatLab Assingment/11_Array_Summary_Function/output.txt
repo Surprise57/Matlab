@@ -1,0 +1,12 @@
+Test Case 1 Input Array: [ 20 -10 45 5 -20 50 ]
+Total   : 90
+Average : 15.00
+Minimum : -20
+Maximum : 50
+
+Test Case 2 Input Array: [ -15 -30 -5 -10 -180 ]
+Total   : -240
+Average : -48.00
+Minimum : -180
+Maximum : -5
+

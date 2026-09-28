@@ -1,0 +1,5 @@
+Name: Mohit | Status: Absent
+Name: Mohan | Status: Present
+Name: Ramu | Status: Absent
+Name: Aditya | Status: Late
+Name:  | Status: Absent

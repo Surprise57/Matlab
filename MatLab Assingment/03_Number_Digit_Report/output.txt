@@ -1,0 +1,7 @@
+Original Number: 256
+Number of Digits: 3
+Sum of Digits: 13
+Count of Even Digits: 2
+Count of Odd Digits: 1
+Reversed Number: 652
+Is Palindrome: No

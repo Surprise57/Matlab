@@ -1,0 +1,4 @@
+Input Array: [ 41 72 85 94 60 94 33 21 55 ]
+
+Maximum Value        : 94
+Second Largest Value : 85

@@ -1,0 +1,12 @@
+Testing Input: 7
+Result: Factorial of 7 is: 5040
+
+Testing Input: 2
+Result: Factorial of 2 is: 2
+
+Testing Input: -7
+Result: Invalid Input (Rejected)
+
+Testing Input: 7.2
+Result: Invalid Input (Rejected)
+

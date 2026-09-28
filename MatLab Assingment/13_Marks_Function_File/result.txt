@@ -1,0 +1,6 @@
+Input Marks: [ 58 69 87 85 45 ]
+
+Average Valid Mark : 68.80
+Highest Valid Mark : 87
+Pass Count : 5
+Fail Count : 0

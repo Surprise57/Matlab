@@ -1,0 +1,10 @@
+45	36	98	75	
+45	85	96	78	
+14	25	36	87	
+Minimum Value : 14 at Position (3, 1)
+Maximum Value : 98 at Position (1, 3)
+Row 1 Sum : 254
+Row 2 Sum : 304
+Row 3 Sum : 162
+
+Highest Row Sum : 304 (Row 2)

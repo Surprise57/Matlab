@@ -1,0 +1,2 @@
+Value 21 found at first position: 6
+Total occurrences of 21: 1
